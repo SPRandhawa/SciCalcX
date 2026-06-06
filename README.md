@@ -37,9 +37,8 @@ SciCalcX is a modern scientific calculator built using HTML, CSS, and JavaScript
 
 ---
 
-## 🌐 Live Demo
-
-(Will add soon)
+## 🌐 Live Demo  
+👉 [Click here to use SciCalcX](https://sprandhawa.github.io/SciCalcX/)
 
 ---
 
