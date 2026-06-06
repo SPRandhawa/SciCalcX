@@ -47,6 +47,8 @@ SciCalcX is a modern scientific calculator built using HTML, CSS, and JavaScript
 **v1.0** – Initial release
 
 ---
+![Status](https://img.shields.io/badge/status-live-green)
+---
 
 ## 👨‍💻 Author
 
