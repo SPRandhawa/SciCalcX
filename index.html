@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SciCalcX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="calculator">
+
+  <div class="header">
+    <h1>SciCalcX</h1>
+    <p>Scientific Calculator</p>
+  </div>
+
+  <input type="text" id="display" readonly>
+
+  <div class="buttons">
+    <button onclick="clearDisplay()">C</button>
+    <button onclick="deleteLast()">⌫</button>
+    <button onclick="append('(')">(</button>
+    <button onclick="append(')')">)</button>
+
+    <button onclick="append('7')">7</button>
+    <button onclick="append('8')">8</button>
+    <button onclick="append('9')">9</button>
+    <button onclick="append('/')">÷</button>
+
+    <button onclick="append('4')">4</button>
+    <button onclick="append('5')">5</button>
+    <button onclick="append('6')">6</button>
+    <button onclick="append('*')">×</button>
+
+    <button onclick="append('1')">1</button>
+    <button onclick="append('2')">2</button>
+    <button onclick="append('3')">3</button>
+    <button onclick="append('-')">−</button>
+
+    <button onclick="append('0')">0</button>
+    <button onclick="append('.')">.</button>
+    <button onclick="calculate()">=</button>
+    <button onclick="append('+')">+</button>
+
+    <!-- Scientific -->
+    <button onclick="appendFunc('sin(')">sin</button>
+    <button onclick="appendFunc('cos(')">cos</button>
+    <button onclick="appendFunc('tan(')">tan</button>
+    <button onclick="appendFunc('Math.sqrt(')">√</button>
+
+    <button onclick="appendFunc('log(')">log</button>
+    <button onclick="append('Math.PI')">π</button>
+    <button onclick="append('Math.E')">e</button>
+    <button onclick="append('**2')">x²</button>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
