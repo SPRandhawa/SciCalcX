@@ -40,14 +40,18 @@ SciCalcX is a modern scientific calculator built using HTML, CSS, and JavaScript
 ## 🌐 Live Demo  
 👉 [Click here to use SciCalcX](https://sprandhawa.github.io/SciCalcX/)
 
+# 🧮 SciCalcX
+
+![Status](https://img.shields.io/badge/status-live-green)
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![Tech](https://img.shields.io/badge/tech-HTML%20CSS%20JS-orange)
+
 ---
 
 ## 📌 Version
 
 **v1.0** – Initial release
 
----
-![Status](https://img.shields.io/badge/status-live-green)
 ---
 
 ## 👨‍💻 Author
